@@ -1,6 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap');
 
 body {
-  font-family: 'Merriweather', serif !important;
-  line-height: 1.8 !important;
+    /* Usamos !important porque la documentación indica que es necesario para 
+       sobrescribir algunos temas específicos */
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif !important;
+    font-size: 16px !important;
+    line-height: 1.6 !important;
+    -webkit-font-smoothing: antialiased;
+}
+
+/* Para que los títulos tengan ese peso de 'Building' */
+h1, h2, h3 {
+    font-family: 'Inter', sans-serif !important;
+    font-weight: 600 !important;
+    letter-spacing: -0.02em !important;
 }
