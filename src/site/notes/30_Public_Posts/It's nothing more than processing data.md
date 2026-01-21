@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/30-public-posts/it-s-nothing-more-than-processing-data/","tags":["gardenEntry"]}
 ---
 
-
+# It's nothing more than processing data
 
 Recently, I starting diving into Data Engineering to better understand how handling data adds value to a business. It's a fascinating field. They divide the data lifecycle in stages like a processing pipeline: data enters in the system, gets stored somewhere useful, is transformed and finally served to stakeholders to help them make better decisions. 
 
