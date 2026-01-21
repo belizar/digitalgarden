@@ -27,3 +27,7 @@ While my interests shift as I discover new patterns, right now I am deep-diving 
 There is no chronological feed. Thread this space like a wiki. Click on the internal links to follow a train of thought, or just explore the graph.
 
 We are building here. Pardon the dust.
+
+### 🌱 Recent Sprouts *(Fresh notes and thoughts under construction)* 
+- [[Building Evolutionary Thoughts/It's nothing more than processing data\|It's nothing more than processing data]]
+- [[Building Evolutionary Thoughts/Build your own IDE (Or Why I Embraced the Terminal)\|Build your own IDE (Or Why I Embraced the Terminal)]]
