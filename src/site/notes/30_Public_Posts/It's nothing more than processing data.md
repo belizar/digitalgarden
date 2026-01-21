@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-public-posts/it-s-nothing-more-than-processing-data/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/30-public-posts/it-s-nothing-more-than-processing-data/"}
 ---
 
 # It's nothing more than processing data
