@@ -21,7 +21,7 @@ While my interests shift as I discover new patterns, right now I am deep-diving 
 
 * **Data Engineering:** Understanding data as a business enabler and a flow.
 * **System Dynamics:** Applying Control Theory and Queuing Theory to software capacity planning.
-* **The Met-Game:** Optimizing workflows, Developer Experience (DX), and "Learning in Public".
+* **The Meta-Game:** Optimizing workflows, Developer Experience (DX), and "Learning in Public".
 
 ### How to navigate
 There is no chronological feed. Thread this space like a wiki. Click on the internal links to follow a train of thought, or just explore the graph.
