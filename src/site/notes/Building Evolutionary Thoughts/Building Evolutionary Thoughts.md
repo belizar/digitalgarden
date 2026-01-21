@@ -9,7 +9,7 @@ This is not a traditional blog. You won't find SEO-optimized articles or perfect
 ### The Philosophy
 I believe that software architecture, much like thinking, is not static. It evolves.
 
-The name **"Evolutionary Thoughts"** is a nod to the concept of *Evolutionary Architectures*: systems designed to adapt to change. I applied the same principle to my knowledge. I am obsessed with **Systems Thinking**-finding the underlying patterns that connect software, mathematics, business processes, and even physical performance.
+The name **"Evolutionary Thoughts"** is a nod to the concept of *Evolutionary Architectures*: systems designed to adapt to change. I applied the same principle to my knowledge. I am obsessed with **Systems Thinking** - finding the underlying patterns that connect software, mathematics, business processes, and even physical performance.
 
 What you see here is my current best understanding of the world, subject to refactoring as I learn more.
 

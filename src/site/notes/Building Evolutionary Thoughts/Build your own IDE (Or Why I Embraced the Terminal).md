@@ -3,7 +3,7 @@
 ---
 
 
-**Convenience makes us lazy.** Yeah, zillions of IDEs with different shapes--all forks of VS Code--are making us lazy because they hide the machinery.
+**Convenience makes us lazy.** Yeah, zillions of IDEs with different shapes --all forks of VS Code-- are making us lazy because they hide the machinery.
 
 I decided to move my work entirely to the terminal. I learned Vim, endured the pain, and started using tools like Zellij. And yes, ironically, **I ended up building my own IDE inside the terminal.**
 
