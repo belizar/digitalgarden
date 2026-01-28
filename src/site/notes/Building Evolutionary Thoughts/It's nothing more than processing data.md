@@ -15,3 +15,4 @@ At its core, it is nothing more than processing data: moving information from Po
 > Whether it's a Kafka topic, a REST API controller, or a human reviewing a spreadsheet, systematically, they are all just nodes and queues. The architecture remains the same; only the latency and throughput constraints change.
 
 
+Also, giving tools or RAG to AI is nothing more than make data available for a consumer where the consumer is an AI agent. So, maybe Data Engineering is more important than ever. The key thing here is Ingest and Transform.
