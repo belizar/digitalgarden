@@ -31,3 +31,4 @@ We are building here. Pardon the dust.
 ### 🌱 Recent Sprouts *(Fresh notes and thoughts under construction)* 
 - [[Building Evolutionary Thoughts/It's nothing more than processing data\|It's nothing more than processing data]]
 - [[Building Evolutionary Thoughts/Build your own IDE (Or Why I Embraced the Terminal)\|Build your own IDE (Or Why I Embraced the Terminal)]]
+- [[Building Evolutionary Thoughts/About Cognitive Load, Scaling Systems vs. Scaling People\|About Cognitive Load, Scaling Systems vs. Scaling People]]
